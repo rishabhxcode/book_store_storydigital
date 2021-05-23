@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "151979797940",
+    "project_id": "storydigitaltask-53029",
+    "storage_bucket": "storydigitaltask-53029.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151979797940:android:69028ba95c032e961716e1",
+        "android_client_info": {
+          "package_name": "com.example.storydigital_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151979797940-bmpbnsnfkfsfc9ol9qc9029gt6ocb16e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.storydigital_task",
+            "certificate_hash": "0d9f08f5b6b00e2fae3da73dad049f6a0d51e0c9"
+          }
+        },
+        {
+          "client_id": "151979797940-06rt1ibg7av0qt1q0r3vkqh1m3f0r0b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEoeGFJ3gqj3oR-OlddZ0JGAOTvf01dzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151979797940-06rt1ibg7av0qt1q0r3vkqh1m3f0r0b0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
